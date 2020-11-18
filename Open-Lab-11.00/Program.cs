@@ -13,7 +13,7 @@ namespace Open_Lab_11._00
             schoolLibrary.StudentsBook[0] = 2;
             schoolLibrary.StudentsBook[1] = 2;
             schoolLibrary.StudentsList[0] = "Paul";
-            schoolLibrary.StudentsList[1] = "John";
+            schoolLibrary.StudentsList[1] = "John ";
 
             schoolLibrary.WriteAll();
         }
